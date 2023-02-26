@@ -1,0 +1,11 @@
+{
+  "name": "@kishore141/kishore141-first-hello",
+  "version": "1.0.0",
+  "description": "First Hello World Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kishore",
+  "license": "ISC"
+}
